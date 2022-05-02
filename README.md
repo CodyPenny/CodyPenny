@@ -2,7 +2,7 @@
 
 ### Hi 👋 
 
-## I'm a full-stack developer from 🇺🇸 and currently exploring WebGl 🌎 and looking for new opportunities 💎.  
+I'm a full-stack developer from 🇺🇸 and currently exploring WebGl 🌎 and looking for new opportunities 💎.  
 
 <!--
 **CodyPenny/CodyPenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
